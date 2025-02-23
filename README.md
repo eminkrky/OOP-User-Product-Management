@@ -31,15 +31,25 @@ Bu projede **Nesne Yönelimli Programlama**'nın temel bileşenleri uygulanmış
 
 ConsoleApp2/
 │── Classes/
+
 │   ├── admin.cs          # Admin kullanıcısı
+
 │   ├── customer.cs       # Müşteri kullanıcısı
+
 │
+
 │── Features/
+
 │   ├── addProduct.cs     # Ürün ekleme işlemi
+
 │   ├── buyProduct.cs     # Ürün satın alma işlemi
+
 │
+
 │── Interfaces/
+
 │   ├── IUser.cs          # Kullanıcı arayüzü (interface)
+
 │── Program.cs            # Ana çalışma dosyası
 ---
 
